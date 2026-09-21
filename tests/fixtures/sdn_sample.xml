@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML">
+  <publshInformation>
+    <Publish_Date>09/18/2026</Publish_Date>
+    <Record_Count>4</Record_Count>
+  </publshInformation>
+  <sdnEntry>
+    <uid>2677</uid>
+    <firstName>Abboud Abdul Latif Hassan</firstName>
+    <lastName>AL-ZOMOR</lastName>
+    <sdnType>Individual</sdnType>
+    <programList>
+      <program>SDGT</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>1796</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ZUMAR</lastName>
+        <firstName>Abbud</firstName>
+      </aka>
+      <aka>
+        <uid>1797</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>ZOMOR</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>1835</uid>
+        <country>Egypt</country>
+      </address>
+    </addressList>
+    <nationalityList>
+      <nationality>
+        <uid>40121</uid>
+        <country>Egypt</country>
+        <mainEntry>true</mainEntry>
+      </nationality>
+    </nationalityList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>40120</uid>
+        <dateOfBirth>19 Apr 1947</dateOfBirth>
+        <mainEntry>true</mainEntry>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>306</uid>
+    <lastName>BANCO NACIONAL DE CUBA, LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>219</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>BNC</lastName>
+      </aka>
+      <aka>
+        <uid>220</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NATIONAL BANK OF CUBA</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>199</uid>
+        <city>Zurich</city>
+        <country>Switzerland</country>
+      </address>
+      <address>
+        <uid>200</uid>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>4238</uid>
+    <lastName>MAR AZUL</lastName>
+    <sdnType>Vessel</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <vesselInfo>
+      <callSign>CL2192</callSign>
+      <vesselType>Tug</vesselType>
+      <vesselFlag>Cuba</vesselFlag>
+    </vesselInfo>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>9001</uid>
+    <lastName>NO NAME USABLE HERE</lastName>
+    <sdnType>Aircraft</sdnType>
+    <programList>
+      <program>DPRK</program>
+    </programList>
+    <dateOfBirthList>
+      <dateOfBirthItem>
+        <uid>1</uid>
+        <dateOfBirth>circa 1965</dateOfBirth>
+      </dateOfBirthItem>
+    </dateOfBirthList>
+  </sdnEntry>
+</sdnList>
