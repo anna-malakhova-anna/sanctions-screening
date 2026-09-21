@@ -1,0 +1,201 @@
+counterparty_id,is_true_match,watchlist_ent_num,perturbation_type,notes
+CP-0001,1,10005,transliteration,Zhou->Chou
+CP-0002,1,10001,alias_hit,matches alt 50001
+CP-0003,0,,clean,
+CP-0004,0,,clean,
+CP-0005,1,10018,word_order,
+CP-0006,0,,clean:shared_token,
+CP-0007,0,,clean,
+CP-0008,0,,clean,
+CP-0009,1,10002,alias_hit,matches alt 50002
+CP-0010,0,,clean,
+CP-0011,0,,clean:shared_surname,
+CP-0012,0,,clean,
+CP-0013,0,,clean:shared_surname,
+CP-0014,0,,clean,format noise
+CP-0015,0,,clean:shared_surname,
+CP-0016,0,,clean:shared_surname,
+CP-0017,0,,clean:shared_surname,
+CP-0018,0,,clean:shared_surname,
+CP-0019,0,,clean,
+CP-0020,0,,clean:shared_surname,
+CP-0021,0,,clean,
+CP-0022,0,,clean,format noise
+CP-0023,0,,clean,
+CP-0024,1,10025,legal_suffix,Ltd->Limited
+CP-0025,1,10013,initials,
+CP-0026,0,,clean:shared_surname,
+CP-0027,1,10015,transliteration,Karimi->Karimy
+CP-0028,0,,clean:shared_surname,format noise
+CP-0029,0,,clean:shared_surname,
+CP-0030,0,,clean:shared_token,
+CP-0031,0,,clean:shared_surname,format noise
+CP-0032,1,10009,transliteration,Karimi->Karimy
+CP-0033,0,,clean:shared_surname,
+CP-0034,0,,clean,
+CP-0035,0,,clean:shared_token,
+CP-0036,0,,hard_negative:same_name_diff_dob,shares name with 10017; format noise
+CP-0037,0,,hard_negative:same_name_diff_dob,shares name with 10013; format noise
+CP-0038,0,,clean,
+CP-0039,0,,clean:shared_token,
+CP-0040,0,,clean,
+CP-0041,0,,clean,
+CP-0042,1,10036,legal_suffix,S.A.->SA
+CP-0043,0,,clean,
+CP-0044,0,,clean:shared_surname,
+CP-0045,1,10008,transliteration,Kuznetsov->Kuznetsoff
+CP-0046,1,10033,word_drop,dropped 'Trading'
+CP-0047,0,,clean,format noise
+CP-0048,1,10003,transliteration,Mousavi->Musavi
+CP-0049,0,,clean,
+CP-0050,0,,clean,
+CP-0051,0,,clean:shared_token,format noise
+CP-0052,0,,clean:shared_surname,
+CP-0053,0,,clean:shared_surname,
+CP-0054,0,,clean:shared_token,
+CP-0055,0,,clean,
+CP-0056,0,,clean,
+CP-0057,0,,clean:shared_token,
+CP-0058,1,10017,word_order,
+CP-0059,0,,clean:shared_token,
+CP-0060,0,,clean,
+CP-0061,0,,clean,
+CP-0062,0,,clean,
+CP-0063,0,,clean:shared_surname,
+CP-0064,0,,clean:shared_surname,
+CP-0065,0,,clean:shared_token,
+CP-0066,0,,clean:shared_token,
+CP-0067,0,,clean:shared_surname,
+CP-0068,1,10007,typo,Abdulrahman->Abdlurahman
+CP-0069,0,,clean:shared_surname,
+CP-0070,0,,clean,
+CP-0071,0,,clean,
+CP-0072,0,,clean:shared_token,
+CP-0073,0,,clean:shared_surname,
+CP-0074,0,,clean,
+CP-0075,0,,clean:shared_token,
+CP-0076,1,10035,word_drop,dropped 'Maritime'
+CP-0077,0,,clean,
+CP-0078,0,,clean:shared_surname,
+CP-0079,0,,clean,
+CP-0080,0,,clean:shared_surname,
+CP-0081,0,,clean,
+CP-0082,0,,clean:shared_token,
+CP-0083,0,,clean,format noise
+CP-0084,0,,clean:shared_token,
+CP-0085,0,,hard_negative:token_overlap,shares 'Silverline' with 10034
+CP-0086,1,10012,word_order,
+CP-0087,1,10016,diacritics,
+CP-0088,0,,clean,
+CP-0089,0,,clean:shared_surname,
+CP-0090,0,,clean,format noise
+CP-0091,0,,hard_negative:same_name_diff_dob,shares name with 10021
+CP-0092,1,10011,transliteration,Xu->Hsu; format noise
+CP-0093,0,,clean,
+CP-0094,1,10003,alias_hit,matches alt 50004
+CP-0095,0,,clean:shared_surname,format noise
+CP-0096,1,10020,word_order,
+CP-0097,0,,clean:shared_surname,
+CP-0098,0,,clean:shared_token,format noise
+CP-0099,0,,clean,format noise
+CP-0100,0,,clean:shared_token,format noise
+CP-0101,0,,clean,
+CP-0102,0,,clean,
+CP-0103,0,,hard_negative:vessel_name_overlap,resembles MV SILVER TIDE
+CP-0104,0,,clean:shared_surname,
+CP-0105,0,,clean,
+CP-0106,0,,clean,
+CP-0107,0,,hard_negative:token_overlap,shares 'Sterling' with 10031
+CP-0108,0,,clean:shared_surname,
+CP-0109,0,,clean,
+CP-0110,0,,clean:shared_surname,
+CP-0111,1,10026,typo,Silverline->Silvrline
+CP-0112,0,,clean:shared_surname,format noise
+CP-0113,0,,clean,
+CP-0114,0,,clean,
+CP-0115,0,,clean:shared_surname,format noise
+CP-0116,0,,clean:shared_token,
+CP-0117,0,,clean,
+CP-0118,0,,clean,
+CP-0119,1,10006,exact,
+CP-0120,0,,clean,
+CP-0121,0,,hard_negative:token_overlap,shares 'Orion' with 10033
+CP-0122,0,,clean,
+CP-0123,0,,clean,
+CP-0124,0,,clean,
+CP-0125,0,,clean,
+CP-0126,0,,clean,
+CP-0127,0,,clean,format noise
+CP-0128,0,,clean,
+CP-0129,0,,clean,format noise
+CP-0130,0,,clean:shared_surname,
+CP-0131,0,,clean:shared_token,
+CP-0132,0,,clean,
+CP-0133,0,,clean,
+CP-0134,0,,clean:shared_token,
+CP-0135,1,10021,word_order,
+CP-0136,0,,clean,
+CP-0137,1,10024,exact,
+CP-0138,1,10019,exact,
+CP-0139,0,,clean:shared_token,
+CP-0140,0,,clean:shared_surname,
+CP-0141,0,,clean,
+CP-0142,0,,hard_negative:vessel_name_overlap,resembles MV CRESCENT DAWN
+CP-0143,0,,clean,
+CP-0144,1,10030,legal_suffix,JSC->Joint Stock Company
+CP-0145,0,,clean,
+CP-0146,0,,clean:shared_token,
+CP-0147,0,,clean:shared_surname,
+CP-0148,0,,clean,format noise
+CP-0149,0,,clean,
+CP-0150,0,,clean:shared_surname,
+CP-0151,0,,clean,
+CP-0152,1,10027,legal_suffix,Inc.->Inc
+CP-0153,0,,clean:shared_surname,
+CP-0154,0,,clean,
+CP-0155,0,,clean:shared_surname,
+CP-0156,0,,clean:shared_surname,
+CP-0157,0,,clean,
+CP-0158,0,,hard_negative:token_overlap,shares 'Meridian' with 10028
+CP-0159,0,,hard_negative:token_overlap,shares 'Bluewater' with 10027
+CP-0160,0,,clean:shared_surname,
+CP-0161,0,,hard_negative:token_overlap,shares 'Silverline' with 10026
+CP-0162,0,,clean,
+CP-0163,0,,hard_negative:same_name_diff_dob,shares name with 10003; format noise
+CP-0164,1,10014,transliteration,Volkov->Wolkow
+CP-0165,0,,clean:shared_token,
+CP-0166,0,,clean:shared_surname,
+CP-0167,0,,clean,
+CP-0168,0,,clean,
+CP-0169,0,,clean:shared_surname,format noise
+CP-0170,0,,clean:shared_token,
+CP-0171,0,,clean:shared_token,
+CP-0172,0,,clean,
+CP-0173,0,,clean:shared_surname,
+CP-0174,0,,clean:shared_surname,
+CP-0175,0,,clean,
+CP-0176,0,,clean:shared_surname,
+CP-0177,0,,clean:shared_surname,
+CP-0178,0,,clean:shared_surname,
+CP-0179,0,,clean:shared_surname,
+CP-0180,0,,hard_negative:same_name_diff_dob,shares name with 10009
+CP-0181,1,10010,word_order,
+CP-0182,0,,clean,
+CP-0183,0,,clean,format noise
+CP-0184,0,,clean,
+CP-0185,0,,clean:shared_token,
+CP-0186,0,,clean:shared_token,
+CP-0187,0,,clean,
+CP-0188,0,,clean:shared_surname,
+CP-0189,0,,clean,
+CP-0190,0,,clean,
+CP-0191,1,10001,typo,Al-Rashid->Al-Rasid
+CP-0192,1,10029,legal_suffix,OOO->LLC
+CP-0193,0,,clean:shared_token,
+CP-0194,0,,hard_negative:same_name_diff_dob,shares name with 10012
+CP-0195,0,,clean:shared_surname,
+CP-0196,0,,clean,
+CP-0197,0,,clean:shared_surname,
+CP-0198,0,,clean:shared_surname,
+CP-0199,0,,clean,format noise
+CP-0200,0,,clean,

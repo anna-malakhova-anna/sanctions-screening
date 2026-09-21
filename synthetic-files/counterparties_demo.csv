@@ -1,0 +1,201 @@
+counterparty_id,name,counterparty_type,country,date_of_birth,registration_number
+CP-0001,Lei Chou,individual,SG,1957-12-15,
+CP-0002,Husein El-Rashid,individual,LB,1972-04-08,
+CP-0003,Mohammed Nasser,individual,EG,1962-02-08,
+CP-0004,Evergreen Textiles JSC,entity,KZ,,A7610562
+CP-0005,Blake Thomas,individual,CA,1971-09-28,
+CP-0006,Harbor Holdings Ltd,entity,GB,,G6492066
+CP-0007,Pinecrest Shipping FZE,entity,AE,,C9310235
+CP-0008,Tidewater Holdings FZE,entity,AE,,H8344375
+CP-0009,Oleksandr Zaytsev,individual,RU,1982-01-01,
+CP-0010,Mikhail Morozov,individual,RU,1964-12-21,
+CP-0011,Omar Mansour,individual,EG,1991-07-23,
+CP-0012,Keystone Textiles LLC,entity,US,,H1257489
+CP-0013,Khalid Mansour,individual,SA,1979-07-23,
+CP-0014,  Atlas Technologies Limited ,entity,HK,,B1689025
+CP-0015,Mohammed Qasim,individual,JO,1994-03-20,
+CP-0016,Lei Zhang,individual,HK,1991-04-26,
+CP-0017,Raúl Gutiérrez,individual,MX,1984-02-05,
+CP-0018,José Ramírez,individual,PA,1971-06-06,
+CP-0019,Beacon Minerals LLC,entity,US,,B8990081
+CP-0020,Wei Zhou,individual,CN,1966-05-23,
+CP-0021,Redwood Holdings Pte. Ltd.,entity,SG,,D5652512
+CP-0022,EVERGREEN LOGISTICS LLC,entity,US,,C6160869
+CP-0023,Khalid Nasser,individual,LB,1982-10-20,
+CP-0024,Crescent Shipping Limited,entity,GB,,C7917152
+CP-0025,F. Mansour,individual,IQ,1959-07-13,
+CP-0026,Raúl Gutiérrez,individual,MX,1965-06-14,
+CP-0027,Reza Karimy,individual,IR,1987-03-17,
+CP-0028,  Dmitri Kuznetsov ,individual,CY,1972-10-23,
+CP-0029,Dmitri Kuznetsov,individual,CY,1991-10-03,
+CP-0030,Silverline Technologies JSC,entity,KZ,,G8763013
+CP-0031,SERGEI VOLKOV,individual,RU,1970-08-20,
+CP-0032,Hossein Karimy,individual,IR,1958-04-27,
+CP-0033,Lei Zhang,individual,CN,1973-04-12,
+CP-0034,Falcon Textiles Ltd,entity,GB,,D2436347
+CP-0035,Orion Minerals Limited,entity,HK,,G7136687
+CP-0036,JUN ZHANG,individual,SG,1987-10-03,
+CP-0037,FAISAL MANSOUR,individual,EG,1971-07-13,
+CP-0038,Mehdi Rahimi,individual,AE,1975-04-23,
+CP-0039,Crescent Capital Pte. Ltd.,entity,SG,,H9910914
+CP-0040,Juniper Petrochemicals LLC,entity,US,,A6183033
+CP-0041,Falcon Energy GmbH,entity,DE,,H4833486
+CP-0042,Orion Energy SA,entity,PA,,H6866294
+CP-0043,Evergreen Foods FZE,entity,AE,,F8031780
+CP-0044,Robert Whitmore,individual,CA,1957-03-16,
+CP-0045,Sergei Kuznetsoff,individual,BY,1959-10-21,
+CP-0046,Orion FZE,entity,AE,,F5674183
+CP-0047,Evergreen  Imports Limited,entity,HK,,H2721135
+CP-0048,Javad Musavi,individual,IR,1983-10-09,
+CP-0049,Pinecrest Petrochemicals Pte. Ltd.,entity,SG,,H5988757
+CP-0050,Beacon Shipping Pte. Ltd.,entity,SG,,D5606980
+CP-0051,Aurora  Energy LLC,entity,US,,B2686231
+CP-0052,Tariq Al-Rashid,individual,SA,1964-08-23,
+CP-0053,Héctor Ramírez,individual,VE,1978-05-13,
+CP-0054,Meridian Technologies B.V.,entity,NL,,G2347467
+CP-0055,Falcon Industries B.V.,entity,NL,,H5545223
+CP-0056,Juniper Capital B.V.,entity,NL,,H2145653
+CP-0057,Crescent Consulting OOO,entity,RU,,G4786401
+CP-0058,Zhang Jun,individual,CN,1970-10-03,
+CP-0059,Granite Textiles LLC,entity,US,,C1656695
+CP-0060,Yusuf Nasser,individual,AE,1958-09-10,
+CP-0061,Summit Trading FZE,entity,AE,,D3499627
+CP-0062,Héctor Hernández,individual,MX,1978-05-03,
+CP-0063,Raúl Gutiérrez,individual,MX,1973-12-10,
+CP-0064,Wei Zhang,individual,CN,1974-04-25,
+CP-0065,Silverline Maritime OOO,entity,RU,,G8043620
+CP-0066,Orion Consulting B.V.,entity,NL,,C1047572
+CP-0067,David Whitmore,individual,CA,1958-06-17,
+CP-0068,Abdlurahman Al-Rashid,individual,SA,1979-05-15,
+CP-0069,José Muñoz,individual,VE,1976-04-11,
+CP-0070,Redwood Technologies Ltd,entity,GB,,F4713925
+CP-0071,Atlas Logistics OOO,entity,RU,,G2563790
+CP-0072,Aurora Maritime Pte. Ltd.,entity,SG,,D6192009
+CP-0073,Faisal Qasim,individual,JO,1993-05-01,
+CP-0074,Mehdi Rahimi,individual,AE,1981-05-27,
+CP-0075,Aurora Foods Ltd,entity,GB,,D6394323
+CP-0076,Granite S.A.,entity,PA,,A8896868
+CP-0077,Omar Nasser,individual,LB,1968-06-25,
+CP-0078,Aleksandr Kuznetsov,individual,KZ,1970-08-19,
+CP-0079,Beacon Foods S.A.,entity,PA,,G2663938
+CP-0080,Mehdi Karimi,individual,IR,1955-08-24,
+CP-0081,Evergreen Technologies OOO,entity,RU,,F2683838
+CP-0082,Sterling Foods Limited,entity,HK,,C8491822
+CP-0083,HOSSEIN RAHIMI,individual,TR,1970-05-22,
+CP-0084,Silverline Energy Pte. Ltd.,entity,SG,,D7442089
+CP-0085,Silverline Logistics FZE,entity,AE,,A9722815
+CP-0086,Caldwell Michael,individual,GB,1960-01-28,
+CP-0087,Jose Gutierrez,individual,VE,1986-01-04,
+CP-0088,Keystone Trading Pte. Ltd.,entity,SG,,A5014745
+CP-0089,Jesús Ramírez,individual,PA,1991-11-26,
+CP-0090,REDWOOD TRADING PTE. LTD.,entity,SG,,B6404139
+CP-0091,Reza Mousavi,individual,AE,1953-11-16,
+CP-0092,  Ming Hsu ,individual,SG,1971-03-08,
+CP-0093,Pinecrest Petrochemicals GmbH,entity,DE,,C2171218
+CP-0094,Jawad Moussavi,individual,IR,1983-10-09,
+CP-0095,Jun  Zhou,individual,HK,1964-04-04,
+CP-0096,Sokolov Sergei,individual,BY,1959-06-01,
+CP-0097,Raúl Muñoz,individual,CO,1982-03-24,
+CP-0098,  Orion Imports GmbH ,entity,DE,,A3556551
+CP-0099,MICHAEL HARRINGTON,individual,US,1987-11-21,
+CP-0100,STERLING FOODS S.A.,entity,PA,,B8863447
+CP-0101,Beacon Logistics Inc.,entity,CA,,H2736473
+CP-0102,Halcyon Energy OOO,entity,RU,,F9186400
+CP-0103,Silver Tide Travel Ltd,entity,GB,,C6049101
+CP-0104,Héctor Gutiérrez,individual,MX,1969-05-23,
+CP-0105,Tidewater Logistics S.A.,entity,PA,,G5605016
+CP-0106,Ironwood Technologies S.A.,entity,PA,,A2664863
+CP-0107,Sterling Minerals LLC,entity,US,,E9508103
+CP-0108,Yevgeny Zaitsev,individual,BY,1987-09-27,
+CP-0109,Ironwood Foods S.A.,entity,PA,,E4342306
+CP-0110,Raúl Gutiérrez,individual,PA,1995-06-04,
+CP-0111,Silvrline Capital GmbH,entity,DE,,A4240180
+CP-0112,  Jesús Muñoz ,individual,CO,1972-07-16,
+CP-0113,Cobalt Maritime Limited,entity,HK,,H3401116
+CP-0114,Reza Rahimi,individual,TR,1969-10-02,
+CP-0115,  Jesús Ramírez ,individual,MX,1981-07-11,
+CP-0116,Granite Capital FZE,entity,AE,,D3217273
+CP-0117,Redwood Maritime LLC,entity,US,,G7022335
+CP-0118,Halcyon Holdings OOO,entity,RU,,H1522621
+CP-0119,David Blake,individual,GB,1959-01-22,
+CP-0120,Ming Chen,individual,CN,1977-05-25,
+CP-0121,Orion Imports OOO,entity,RU,,D7110622
+CP-0122,Tidewater Foods OOO,entity,RU,,A5180853
+CP-0123,Khalid Al-Amin,individual,AE,1959-07-16,
+CP-0124,David Harrington,individual,GB,1975-01-10,
+CP-0125,Atlas Energy Limited,entity,HK,,A8630712
+CP-0126,Halcyon Energy LLC,entity,US,,F8095702
+CP-0127,Halcyon  Trading Ltd,entity,GB,,G3276659
+CP-0128,Cobalt Holdings FZE,entity,AE,,A7216461
+CP-0129,  Pinecrest Logistics B.V. ,entity,NL,,H6452832
+CP-0130,David Caldwell,individual,US,1955-08-10,
+CP-0131,Aurora Petrochemicals Inc.,entity,CA,,G2661307
+CP-0132,Héctor Hernández,individual,CO,1972-09-05,
+CP-0133,Cobalt Consulting B.V.,entity,NL,,H9468772
+CP-0134,Aurora Consulting LLC,entity,US,,C6218367
+CP-0135,Mousavi Reza,individual,IR,1972-11-16,
+CP-0136,Evergreen Industries Ltd,entity,GB,,D6431983
+CP-0137,Michael Whitmore,individual,GB,1984-04-28,
+CP-0138,Abdulrahman Qasim,individual,SA,1974-07-22,
+CP-0139,Sterling Foods S.A.,entity,PA,,H8389840
+CP-0140,Hossein Mousavi,individual,TR,1968-02-27,
+CP-0141,Halcyon Trading Pte. Ltd.,entity,SG,,B2432176
+CP-0142,Crescent Dawn Travel Ltd,entity,GB,,G7361002
+CP-0143,Lakeshore Energy LLC,entity,US,,A8318550
+CP-0144,Bluewater Minerals Joint Stock Company,entity,KZ,,C2813543
+CP-0145,Lakeshore Textiles OOO,entity,RU,,E3760597
+CP-0146,Granite Industries FZE,entity,AE,,E7279729
+CP-0147,Thomas Caldwell,individual,CA,1983-07-09,
+CP-0148,Raúl  Hernández,individual,VE,1955-07-27,
+CP-0149,Evergreen Consulting Inc.,entity,CA,,A2368710
+CP-0150,Sergei Volkov,individual,RU,1982-04-06,
+CP-0151,Mohammed Nasser,individual,LB,1959-11-02,
+CP-0152,Bluewater Energy Inc,entity,CA,,G3592974
+CP-0153,David Caldwell,individual,US,1982-12-19,
+CP-0154,Omar Haddad,individual,IQ,1958-10-18,
+CP-0155,Wei Zhou,individual,HK,1962-05-22,
+CP-0156,José Ramírez,individual,PA,1979-10-23,
+CP-0157,Tidewater Maritime Inc.,entity,CA,,D9123504
+CP-0158,Meridian Industries Limited,entity,HK,,G6472441
+CP-0159,Bluewater Foods S.A.,entity,PA,,C4218542
+CP-0160,Héctor Ramírez,individual,PA,1986-08-26,
+CP-0161,Silverline Foods LLC,entity,US,,F6266630
+CP-0162,Redwood Shipping OOO,entity,RU,,E1761976
+CP-0163,JAVAD MOUSAVI,individual,AE,1995-10-09,
+CP-0164,Andrei Wolkow,individual,CY,1989-05-25,
+CP-0165,Harbor Foods LLC,entity,US,,F6018975
+CP-0166,David Caldwell,individual,US,1985-04-15,
+CP-0167,Faisal Nasser,individual,JO,1993-03-11,
+CP-0168,Keystone Foods Pte. Ltd.,entity,SG,,D9576076
+CP-0169,SERGEI ZAITSEV,individual,CY,1966-02-22,
+CP-0170,Aurora Holdings Ltd,entity,GB,,E6899644
+CP-0171,Silverline Textiles S.A.,entity,PA,,G6510922
+CP-0172,Atlas Energy LLC,entity,US,,A6448705
+CP-0173,Robert Blake,individual,GB,1991-05-03,
+CP-0174,Robert Caldwell,individual,US,1969-10-26,
+CP-0175,Halcyon Petrochemicals Limited,entity,HK,,B8103580
+CP-0176,Jesús Muñoz,individual,MX,1975-12-16,
+CP-0177,Ming Zhou,individual,CN,1982-02-08,
+CP-0178,Jun Xu,individual,SG,1985-04-28,
+CP-0179,Aleksandr Sokolov,individual,CY,1962-12-18,
+CP-0180,Hossein Karimi,individual,TR,1939-04-27,
+CP-0181,Gutiérrez Jesús,individual,PA,1968-11-16,
+CP-0182,Keystone Shipping LLC,entity,US,,D1358318
+CP-0183,Mehdi  Tehrani,individual,AE,1987-01-22,
+CP-0184,Keystone Logistics FZE,entity,AE,,D9697969
+CP-0185,Bluewater Industries JSC,entity,KZ,,C2512187
+CP-0186,Bluewater Trading JSC,entity,KZ,,D5821419
+CP-0187,Keystone Consulting JSC,entity,KZ,,H6422534
+CP-0188,Sergei Zaitsev,individual,BY,1959-03-25,
+CP-0189,Ironwood Imports Limited,entity,HK,,H2530793
+CP-0190,Redwood Textiles OOO,entity,RU,,F8138769
+CP-0191,Hussein Al-Rasid,individual,LB,1972-04-08,
+CP-0192,Aurora Shipping LLC,entity,RU,,F7907400
+CP-0193,Silverline Holdings Inc.,entity,CA,,F7390515
+CP-0194,Michael Caldwell,individual,CA,1946-01-28,
+CP-0195,Sergei Zaitsev,individual,BY,1983-01-14,
+CP-0196,Ironwood Capital Limited,entity,HK,,B8876745
+CP-0197,José Ramírez,individual,VE,1995-10-22,
+CP-0198,David Whitmore,individual,GB,1980-05-07,
+CP-0199,Juniper  Petrochemicals Pte. Ltd.,entity,SG,,E7850067
+CP-0200,Yusuf Haddad,individual,LB,1990-02-06,

@@ -1,0 +1,41 @@
+.threshold-control {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.threshold-control__sliders {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.threshold-slider {
+  flex: 1;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.threshold-slider__label {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.threshold-slider input[type="range"] {
+  width: 100%;
+  accent-color: var(--series-1);
+}
+
+.threshold-control__stats {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.threshold-control__footnote {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin: 0;
+}

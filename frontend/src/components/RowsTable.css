@@ -1,0 +1,133 @@
+.rows-table {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.rows-table__toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.rows-table__filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.filter-chip {
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+
+.filter-chip--active {
+  background: var(--series-1);
+  border-color: var(--series-1);
+  color: #fff;
+}
+
+.rows-table__actions {
+  display: flex;
+  gap: 8px;
+}
+
+.rows-table__scroll {
+  max-height: 480px;
+  overflow: auto;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-1);
+  text-align: left;
+  padding: 8px 10px;
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid var(--gridline);
+}
+
+tbody td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--gridline);
+  color: var(--text-primary);
+  vertical-align: middle;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+.matcher-tag {
+  font-size: 11.5px;
+  color: var(--text-secondary);
+  background: var(--gridline);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.row-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.rows-table__empty {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 24px;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  font-weight: 600;
+}
+
+.status-badge--good {
+  background: var(--status-good-bg);
+  color: var(--status-good);
+}
+
+.status-badge--warning {
+  background: var(--status-warning-bg);
+  color: #a06a00;
+}
+
+.status-badge--critical {
+  background: var(--status-critical-bg);
+  color: var(--status-critical);
+}
+
+.status-badge--neutral {
+  background: var(--gridline);
+  color: var(--text-secondary);
+}

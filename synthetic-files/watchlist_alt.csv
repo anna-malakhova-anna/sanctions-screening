@@ -1,0 +1,25 @@
+ent_num,alt_num,alt_type,alt_name,alt_strength
+10001,50001,aka,"EL-RASHID, Husein",strong
+10002,50002,aka,"ZAYTSEV, Oleksandr",strong
+10002,50003,aka,Sasha,weak
+10003,50004,aka,"MOUSSAVI, Jawad",strong
+10005,50005,aka,"CHOU, Lei",strong
+10007,50006,aka,"ALRASHID, Abd al-Rahman",strong
+10008,50007,aka,"KUZNETSOFF, Sergey",strong
+10008,50008,aka,Seryozha,weak
+10009,50009,aka,"KARIMY, Hosseyn",strong
+10011,50010,aka,"HSU, Ming",strong
+10013,50011,aka,"MANSUR, Feisal",strong
+10014,50012,aka,"WOLKOW, Andrey",strong
+10015,50013,aka,"KARIMY, Reza",strong
+10017,50014,aka,"CHANG, Jun",strong
+10019,50015,aka,"KASSIM, Abd al-Rahman",strong
+10020,50016,aka,"SOKOLOFF, Sergey",strong
+10020,50017,aka,Seryozha,weak
+10021,50018,aka,"MUSAVI, Reza",strong
+10023,50019,aka,"CHANG, Ming",strong
+10026,50020,fka,SUMMIT PETROCHEMICALS GMBH,strong
+10029,50021,fka,SUMMIT MARITIME OOO,strong
+10030,50022,fka,GRANITE LOGISTICS JSC,strong
+10031,50023,fka,BEACON IMPORTS PTE. LTD.,strong
+10033,50024,fka,COBALT TECHNOLOGIES FZE,strong

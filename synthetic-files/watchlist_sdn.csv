@@ -1,0 +1,40 @@
+ent_num,sdn_name,sdn_type,program,vessel_flag,remarks
+10001,"AL-RASHID, Hussein",individual,SYN-C,,DOB circa 1972; nationality LB
+10002,"ZAITSEV, Aleksandr",individual,SYN-C,,DOB 01 Jan 1982; nationality RU
+10003,"MOUSAVI, Javad",individual,SYN-A,,DOB circa 1983; nationality IR
+10004,"RAMÍREZ, Raúl",individual,SYN-B,,DOB 04 Jun 1968; nationality MX
+10005,"ZHOU, Lei",individual,SYN-B,,DOB 15 Dec 1957; nationality SG
+10006,"BLAKE, David",individual,SYN-A,,DOB circa 1959; nationality GB
+10007,"AL-RASHID, Abdulrahman",individual,SYN-A,,DOB 1978 to 1981; nationality SA
+10008,"KUZNETSOV, Sergei",individual,SYN-A,,DOB 1959; nationality BY
+10009,"KARIMI, Hossein",individual,SYN-B,,DOB 1957 to 1960; nationality IR
+10010,"GUTIÉRREZ, Jesús",individual,SYN-C,,DOB 1967 to 1970; nationality PA
+10011,"XU, Ming",individual,SYN-B,,DOB 1971; nationality SG
+10012,"CALDWELL, Michael",individual,SYN-A,,DOB 28 Jan 1960; nationality GB
+10013,"MANSOUR, Faisal",individual,SYN-C,,DOB 13 Jul 1959; alt. DOB 1960; nationality IQ
+10014,"VOLKOV, Andrei",individual,SYN-B,,DOB 25 May 1989; nationality CY
+10015,"KARIMI, Reza",individual,SYN-B,,DOB 1986 to 1989; nationality IR
+10016,"GUTIÉRREZ, José",individual,SYN-B,,DOB 1985 to 1988; nationality VE
+10017,"ZHANG, Jun",individual,SYN-A,,DOB circa 1970; nationality CN
+10018,"BLAKE, Thomas",individual,SYN-A,,DOB 1971; nationality CA
+10019,"QASIM, Abdulrahman",individual,SYN-C,,DOB 22 Jul 1974; nationality SA
+10020,"SOKOLOV, Sergei",individual,SYN-A,,DOB 1959; nationality BY
+10021,"MOUSAVI, Reza",individual,SYN-C,,DOB 1972; nationality IR
+10022,"MUÑOZ, Héctor",individual,SYN-B,,DOB 04 Feb 1967; nationality PA
+10023,"ZHANG, Ming",individual,SYN-A,,DOB 13 Jan 1961; nationality SG
+10024,"WHITMORE, Michael",individual,SYN-C,,DOB 1984; nationality GB
+10025,CRESCENT SHIPPING LTD,entity,SYN-C,,Registered in GB
+10026,SILVERLINE CAPITAL GMBH,entity,SYN-B,,Registered in DE
+10027,BLUEWATER ENERGY INC.,entity,SYN-A,,Registered in CA
+10028,MERIDIAN HOLDINGS PTE. LTD.,entity,SYN-B,,Registered in SG
+10029,AURORA SHIPPING OOO,entity,SYN-C,,Registered in RU
+10030,BLUEWATER MINERALS JSC,entity,SYN-C,,Registered in KZ
+10031,STERLING TEXTILES PTE. LTD.,entity,SYN-C,,Registered in SG
+10032,HARBOR TECHNOLOGIES LLC,entity,SYN-A,,Registered in US
+10033,ORION TRADING FZE,entity,SYN-C,,Registered in AE
+10034,SILVERLINE SHIPPING FZE,entity,SYN-C,,Registered in AE
+10035,GRANITE MARITIME S.A.,entity,SYN-C,,Registered in PA
+10036,ORION ENERGY S.A.,entity,SYN-A,,Registered in PA
+10037,MV CRESCENT DAWN,vessel,SYN-B,LR,IMO 9331535
+10038,MV SILVER TIDE,vessel,SYN-A,PA,IMO 9480547
+10039,MV NORTHERN LANTERN,vessel,SYN-C,MH,IMO 9104837
