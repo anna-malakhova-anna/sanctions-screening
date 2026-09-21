@@ -8,5 +8,7 @@ data/raw/*
 !data/raw/.gitkeep
 data/snapshots/*
 !data/snapshots/.gitkeep
+data/eval/*
+!data/eval/.gitkeep
 
 .DS_Store
