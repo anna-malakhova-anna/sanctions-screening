@@ -1,6 +1,7 @@
 from sanctions_screening.match.engine import (
     MatcherName,
     build_search_index,
+    match_batch,
     match_query,
     score_pair,
 )
@@ -124,3 +125,34 @@ class TestMatchQuery:
         results = match_query("Totally Unrelated Fish Market", index)
         assert len(results) > 0
         assert all(r.score < 0.8 for r in results)
+
+    def test_empty_index_returns_no_results(self):
+        assert match_query("Acme Trading", build_search_index([])) == []
+
+
+class TestMatchBatch:
+    def test_returns_one_result_list_per_query(self):
+        index = build_search_index(WATCHLIST)
+        results = match_batch(["Acme Trading Ltd", "Karim Hassan"], index)
+        assert len(results) == 2
+
+    def test_matches_match_query_for_the_same_input(self):
+        index = build_search_index(WATCHLIST)
+        batched = match_batch(["Muhammad Abdul Karim Hassan"], index)[0]
+        single = match_query("Muhammad Abdul Karim Hassan", index)
+        assert [(r.source_id, r.score, r.matcher) for r in batched] == [
+            (r.source_id, r.score, r.matcher) for r in single
+        ]
+
+    def test_empty_query_list_returns_empty(self):
+        index = build_search_index(WATCHLIST)
+        assert match_batch([], index) == []
+
+    def test_empty_index_returns_empty_result_per_query(self):
+        results = match_batch(["Acme Trading", "Karim Hassan"], build_search_index([]))
+        assert results == [[], []]
+
+    def test_top_k_applies_per_query(self):
+        index = build_search_index(WATCHLIST)
+        results = match_batch(["Acme Trading", "Karim Hassan"], index, top_k=1)
+        assert all(len(r) == 1 for r in results)

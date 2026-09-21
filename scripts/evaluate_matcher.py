@@ -20,7 +20,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
-from sanctions_screening.match.engine import build_search_index, match_query  # noqa: E402
+from sanctions_screening.match.engine import build_search_index, match_batch  # noqa: E402
 from sanctions_screening.perturb.harness import PerturbationType, read_labelled_set  # noqa: E402
 from sanctions_screening.snapshot import read_snapshot  # noqa: E402
 
@@ -54,8 +54,8 @@ def main() -> None:
     n_negative = 0
 
     t0 = time.time()
-    for pair in pairs:
-        results = match_query(pair.query_name, index, top_k=1)
+    all_results = match_batch([pair.query_name for pair in pairs], index, top_k=1)
+    for pair, results in zip(pairs, all_results, strict=True):
         top = results[0] if results else None
         stat = by_type[pair.perturbation_type.value]
         stat["n"] += 1
